@@ -112,7 +112,7 @@ html, body {
 .big-rectangle {
   position: absolute;
   right: auto;
-  top: 70%;
+  top: 50%;
   left: 50%;
   margin: 0 auto;
   width: 0px;
