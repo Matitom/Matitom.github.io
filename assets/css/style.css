@@ -36,7 +36,7 @@ html, body {
  * Background colors 
  */
 .blue-bg {
-  background-color: #024d0a;
+  background-color: #242624;
 }
 
 /* 
@@ -44,13 +44,13 @@ html, body {
  */
 .btn {
   font-family: "Varela", sans-serif;
-  background-color: #024d0a;
+  background-color: #242624;
   padding: 0 15px;
   color: #ffffff;
   height: 44px;
   line-height: 42px;
   border-radius: 0;
-  border: 1px solid #024d0a;
+  border: 1px solid #242624;
   text-transform: uppercase;
 }
 
@@ -70,8 +70,8 @@ html, body {
 .btn-inverted:hover,
 .btn-inverted:focus {
   color: #ffffff;
-  background-color: #024d0a;
-  border-color: #024d0a;
+  background-color: #242624;
+  border-color: #242624;
 }
 
 /* 
@@ -115,9 +115,9 @@ html, body {
   top: 70%;
   left: 50%;
   margin: 0 auto;
-  width: 230px;
-  height: 230px;
-  background-color: #024d0a;
+  width: 0px;
+  height: 0px;
+  background-color: #242624;
   border: 0;
   transform: translate(-50%, -50%) rotate(45deg);
   -webkit-transform: translate(-50%, -50%) rotate(45deg);
@@ -303,7 +303,7 @@ html, body {
 
 /* Navigation */
 .site-navigation {
-  background-color: #024d0a;
+  background-color: #242624;
 }
 
 .site-navigation.affix {
@@ -602,7 +602,7 @@ html, body {
   font-family: "Varela", sans-serif;
   margin: 0;
   font-size: 32px;
-  color: #024d0a;
+  color: #242624;
   text-align: center;
   text-transform: uppercase;
 }
@@ -890,7 +890,7 @@ html, body {
 
 .progress-bar {
   position: relative;
-  background-color: #024d0a;
+  background-color: #242624;
   height: 10px;
 }
 
@@ -903,7 +903,7 @@ html, body {
   height: 0;
   border-style: solid;
   border-width: 0 15px 20px 15px;
-  border-color: transparent transparent #024d0a transparent;
+  border-color: transparent transparent #242624 transparent;
   z-index: 2;
 }
 
@@ -1024,7 +1024,7 @@ html, body {
 .section-services .nav-tabs .col-sm-fifth {
   height: 160px;
   background: #ffffff;
-  border-bottom: 3px solid #024d0a;
+  border-bottom: 3px solid #242624;
 }
 
 .section-services .carousel-inner {
@@ -1073,8 +1073,8 @@ html, body {
 }
 
 .section-services .item-controls .carousel-control:hover, .section-services .item-controls .carousel-control:focus {
-  background-color: #024d0a;
-  border-color: #024d0a;
+  background-color: #242624;
+  border-color: #242624;
 }
 
 .section-services .item-controls .carousel-control:hover i, .section-services .item-controls .carousel-control:focus i {
@@ -1142,7 +1142,7 @@ html, body {
 
 .carousel-indicators .active .col-sm-fifth,
 .carousel-indicators a:hover .col-sm-fifth {
-  background-color: #024d0a;
+  background-color: #242624;
 }
 
 .carousel-indicators .active .service p,
@@ -1165,7 +1165,7 @@ html, body {
 }
 
 .carousel-indicators .active .service .rectangle {
-  color: #024d0a;
+  color: #242624;
 }
 
 .carousel-indicators .active .service:after {
@@ -1179,7 +1179,7 @@ html, body {
   height: 0;
   border-style: solid;
   border-width: 15px 15px 0 15px;
-  border-color: #024d0a transparent transparent transparent;
+  border-color: #242624 transparent transparent transparent;
   z-index: 99;
 }
 
@@ -1277,7 +1277,7 @@ html, body {
 
 .review-carousel .slick.rectangle:hover {
   background-color: #ffffff;
-  color: #024d0a;
+  color: #242624;
 }
 
 .review-carousel .slick.rectangle.slick-next {
@@ -1453,7 +1453,7 @@ html, body {
 .team-member .team-member-back {
   padding: 0 20px;
   display: table;
-  background: #024d0a;
+  background: #242624;
   text-align: center;
   color: #ffffff;
   transform: rotateY(-180deg);
@@ -1531,7 +1531,7 @@ html, body {
 }
 
 .section-history .section-diff-title h2 {
-  color: #024d0a;
+  color: #242624;
 }
 
 .section-history .section-diff-title p {
@@ -1633,7 +1633,7 @@ html, body {
 
 .timeline > li > .timeline-panel .timeline-heading .timeline-date {
   padding: 0 10px;
-  background-color: #024d0a;
+  background-color: #242624;
 }
 
 .timeline > li > .timeline-panel .timeline-heading .timeline-position {
@@ -1780,7 +1780,7 @@ html, body {
   margin: 0;
   border-top: 1px solid #f6f6f6;
   border-right: 1px solid #f6f6f6;
-  border-bottom: 2px solid #024d0a;
+  border-bottom: 2px solid #242624;
   height: 47px;
 }
 
@@ -1801,13 +1801,13 @@ html, body {
 }
 
 .portfolio-sorting li a:hover, .portfolio-sorting li a.active {
-  background-color: #024d0a;
+  background-color: #242624;
   color: #ffffff;
-  border-color: #024d0a;
+  border-color: #242624;
 }
 
 .portfolio-sorting li a:hover:after, .portfolio-sorting li a.active:after {
-  border-color: #024d0a;
+  border-color: #242624;
 }
 
 .portfolio-sorting li a:after, .portfolio-sorting li a.acitve:after {
@@ -1835,7 +1835,7 @@ html, body {
   height: 0;
   border-style: solid;
   border-width: 10px 10px 0 10px;
-  border-color: #024d0a transparent transparent transparent;
+  border-color: #242624 transparent transparent transparent;
   z-index: 99;
 }
 
@@ -1866,7 +1866,7 @@ html, body {
 
 .portfolio-item .portfolio-item-thumb:after {
   content: '';
-  background-color: #024d0a;
+  background-color: #242624;
   position: absolute;
   left: 0;
   right: 0;
@@ -1951,8 +1951,8 @@ html, body {
 }
 
 .portfolio-item:hover .portfolio-item-thumb .rectangle:hover {
-  background-color: #024d0a;
-  border-color: #024d0a;
+  background-color: #242624;
+  border-color: #242624;
   color: #ffffff;
 }
 
@@ -2042,7 +2042,7 @@ html, body {
 }
 
 .section-quote p span {
-  color: #024d0a;
+  color: #242624;
 }
 
 /* Sections background: Me */
@@ -2162,7 +2162,7 @@ html, body {
 
 .section-contact .btn:hover {
   color: #ffffff;
-  border-color: #024d0a;
+  border-color: #242624;
 }
 
 .form-control {
@@ -2175,7 +2175,7 @@ html, body {
 
 .form-control:focus {
   box-shadow: none;
-  border-bottom-color: #024d0a;
+  border-bottom-color: #242624;
 }
 
 textarea.form-control {
@@ -2216,7 +2216,7 @@ textarea.form-control {
 
 .section-networks a:hover, .section-networks a:focus {
   background-color: #ffffff;
-  color: #024d0a;
+  color: #242624;
 }
 
 /* FOOTER
@@ -2247,7 +2247,7 @@ textarea.form-control {
 }
 
 .site-footer ul a:hover {
-  color: #024d0a;
+  color: #242624;
 }
 
 .site-footer a {
@@ -2257,7 +2257,7 @@ textarea.form-control {
 }
 
 .site-footer a:hover {
-  color: #024d0a;
+  color: #242624;
 }
 
 .site-footer .rectangle {
@@ -2275,7 +2275,7 @@ textarea.form-control {
 }
 
 .site-footer .rectangle:hover {
-  background-color: #024d0a;
+  background-color: #242624;
   color: #ffffff;
 }
 
@@ -2332,7 +2332,7 @@ textarea.form-control {
   top: -20px;
   height: 40px;
   width: 40px;
-  background-color: #024d0a;
+  background-color: #242624;
   color: #ffffff;
   box-shadow: none;
   border: 0;
@@ -2341,8 +2341,8 @@ textarea.form-control {
 
 .modal-header .rectangle:hover {
   background-color: #ffffff;
-  color: #024d0a;
-  border-color: #024d0a;
+  color: #242624;
+  border-color: #242624;
 }
 
 .modal-header,
@@ -2356,8 +2356,8 @@ textarea.form-control {
 
 .modal-footer .btn:hover {
   background-color: #ffffff;
-  color: #024d0a;
-  border-color: #024d0a;
+  color: #242624;
+  border-color: #242624;
 }
 
 .modal-content {
