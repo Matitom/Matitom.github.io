@@ -276,7 +276,7 @@ html, body {
   position: relative;
   padding: 0 30px 0 15px;
   height: 60px;
-  background-color: #004b91;
+  background-color: #242624;
   z-index: 2;
 }
 
@@ -287,7 +287,7 @@ html, body {
   height: 100%;
   top: 0;
   right: 0;
-  background-color: #004b91;
+  background-color: #95999c;
 }
 
 .site-logo a {
